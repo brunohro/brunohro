@@ -41,18 +41,6 @@ Sou desenvolvedor Web com paixão por tecnologia, design limpo e soluções inte
 
 ---
 
-<div align="center">
-
-### 📊 Estatísticas do GitHub
-
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunohro&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohro&layout=compact&theme=transparent"/>
-</div>
-
----
 
 <div align="center">
 
